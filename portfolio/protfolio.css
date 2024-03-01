@@ -1,0 +1,16 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.banner
+{
+background-image: url(/porfolio/images/port1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+padding: 200px;
+}
+.button{
+    float: right;
+    position: sticky;
+    right: 20px;
+    bottom: 20px;
+}
